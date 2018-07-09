@@ -1,0 +1,351 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3F3363BD-8CBC-400B-83F3-3BEEBE220634}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>mhsAPP</RootNamespace>
+    <AssemblyName>mhsAPP</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="daftarKPWebUI.aspx" />
+    <Content Include="daftarTAWebUI.aspx" />
+    <Content Include="daftarUjianKPWebUI.aspx" />
+    <Content Include="HomeWebUI.aspx" />
+    <Content Include="images\ancientegypt1.jpg" />
+    <Content Include="images\ancientegypt2.jpg" />
+    <Content Include="images\ancientegypt3.jpg" />
+    <Content Include="images\ancientegypt4.jpg" />
+    <Content Include="images\arrowhead.swf" />
+    <Content Include="images\b001main_right.jpg" />
+    <Content Include="images\bcastr31.swf" />
+    <Content Include="images\Beach_pictures_6.jpg" />
+    <Content Include="images\bg1.png" />
+    <Content Include="images\bot1.gif" />
+    <Content Include="images\bot2.gif" />
+    <Content Include="images\botmenu_bg.gif" />
+    <Content Include="images\nav38633020a.gif" />
+    <Content Include="images\nav38633020i.gif" />
+    <Content Include="images\nav94433480a.gif" />
+    <Content Include="images\new_releases_bg.gif" />
+    <Content Include="images\new_releases_s.gif" />
+    <Content Include="images\products_b.gif" />
+    <Content Include="images\shape6501497.gif" />
+    <Content Include="images\slideshow39897396.xml" />
+    <Content Include="images\topmenu_img1.gif" />
+    <Content Include="images\users_feedback_bg.gif" />
+    <Content Include="images\users_feedback_s.gif" />
+    <Content Include="KPWebUI.aspx" />
+    <Content Include="loginWebUI.aspx" />
+    <Content Include="printDaftarKPWebUI.aspx" />
+    <Content Include="printDaftarUKPWebUI.aspx" />
+    <Content Include="script\ac_activex.js" />
+    <Content Include="TAWebUI.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="control\KPWebCtrl.cs" />
+    <Compile Include="control\loginWebCtrl.cs" />
+    <Compile Include="control\TAWebCtrl.cs" />
+    <Compile Include="control\UjKPWebCtrl.cs" />
+    <Compile Include="daftarKPWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>daftarKPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="daftarKPWebUI.aspx.designer.cs">
+      <DependentUpon>daftarKPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="daftarTAWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>daftarTAWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="daftarTAWebUI.aspx.designer.cs">
+      <DependentUpon>daftarTAWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="daftarUjianKPWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>daftarUjianKPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="daftarUjianKPWebUI.aspx.designer.cs">
+      <DependentUpon>daftarUjianKPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\DataSetDosen.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDosen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\DataSetKPWeb.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetKPWeb.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\DataSetMahasiswaWeb.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetMahasiswaWeb.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\DataSetTAWeb.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTAWeb.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\DataSetUjianKPWeb.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetUjianKPWeb.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\DataSetvKP.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetvKP.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\DataSetvUKP.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetvUKP.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="entity\KPWeb.cs" />
+    <Compile Include="entity\TAWeb.cs" />
+    <Compile Include="entity\UjKPWeb.cs" />
+    <Compile Include="HomeWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>HomeWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HomeWebUI.aspx.designer.cs">
+      <DependentUpon>HomeWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KPWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>KPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KPWebUI.aspx.designer.cs">
+      <DependentUpon>KPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="loginWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>loginWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="loginWebUI.aspx.designer.cs">
+      <DependentUpon>loginWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="entity\MahasiswaWeb.cs" />
+    <Compile Include="MessageBox.cs" />
+    <Compile Include="printDaftarKPWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>printDaftarKPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="printDaftarKPWebUI.aspx.designer.cs">
+      <DependentUpon>printDaftarKPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="printDaftarUKPWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>printDaftarUKPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="printDaftarUKPWebUI.aspx.designer.cs">
+      <DependentUpon>printDaftarUKPWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="report\daftarUKPrpt.cs">
+      <DependentUpon>daftarUKPrpt.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="report\daftarKPrpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>daftarKPrpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TAWebUI.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>TAWebUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TAWebUI.aspx.designer.cs">
+      <DependentUpon>TAWebUI.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dataset\DataSetDosen.xsc">
+      <DependentUpon>DataSetDosen.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetDosen.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDosen.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\DataSetDosen.xss">
+      <DependentUpon>DataSetDosen.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetKPWeb.xsc">
+      <DependentUpon>DataSetKPWeb.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetKPWeb.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetKPWeb.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\DataSetKPWeb.xss">
+      <DependentUpon>DataSetKPWeb.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetMahasiswaWeb.xsc">
+      <DependentUpon>DataSetMahasiswaWeb.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetMahasiswaWeb.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetMahasiswaWeb.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\DataSetMahasiswaWeb.xss">
+      <DependentUpon>DataSetMahasiswaWeb.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetTAWeb.xsc">
+      <DependentUpon>DataSetTAWeb.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetTAWeb.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTAWeb.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\DataSetTAWeb.xss">
+      <DependentUpon>DataSetTAWeb.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetUjianKPWeb.xsc">
+      <DependentUpon>DataSetUjianKPWeb.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetUjianKPWeb.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetUjianKPWeb.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\DataSetUjianKPWeb.xss">
+      <DependentUpon>DataSetUjianKPWeb.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetvKP.xsc">
+      <DependentUpon>DataSetvKP.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetvKP.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetvKP.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\DataSetvKP.xss">
+      <DependentUpon>DataSetvKP.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetvUKP.xsc">
+      <DependentUpon>DataSetvUKP.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\DataSetvUKP.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetvUKP.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\DataSetvUKP.xss">
+      <DependentUpon>DataSetvUKP.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="report\daftarUKPrpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>daftarUKPrpt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\daftarKPrpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>daftarKPrpt.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" Condition="" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49189</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

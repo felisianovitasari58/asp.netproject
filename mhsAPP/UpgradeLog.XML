@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mhsAPP">
+</Property><Property Name="Solution File" Value="E:\Skripsi\MHS\mhsAPP\mhsAPP.sln">
+</Property><Property Name="User Options File" Value="E:\Skripsi\MHS\mhsAPP\mhsAPP.suo">
+</Property><Property Name="Date" Value="03 April 2014">
+</Property><Property Name="Time" Value="13:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mhsAPP.sln" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="mhsAPP.suo" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP.suo">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\mhsAPP.csproj" Description="Project file successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\mhsAPP.csproj">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\mhsAPP.csproj.user" Description="Project user file successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\mhsAPP.csproj.user">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\control\KPWebCtrl.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\control\KPWebCtrl.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\control\loginWebCtrl.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\control\loginWebCtrl.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\control\TAWebCtrl.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\control\TAWebCtrl.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\control\UjKPWebCtrl.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\control\UjKPWebCtrl.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarKPWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarKPWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarKPWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarKPWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarTAWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarTAWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarTAWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarTAWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarUjianKPWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarUjianKPWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarUjianKPWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarUjianKPWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetDosen.Designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetDosen.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetKPWeb.Designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetKPWeb.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetMahasiswaWeb.Designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetMahasiswaWeb.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetTAWeb.Designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetTAWeb.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetUjianKPWeb.Designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetUjianKPWeb.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetvKP.Designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetvKP.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetvUKP.Designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetvUKP.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\entity\KPWeb.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\entity\KPWeb.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\entity\UjKPWeb.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\entity\UjKPWeb.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\HomeWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\HomeWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\HomeWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\HomeWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\KPWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\KPWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\KPWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\KPWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\loginWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\loginWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\loginWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\loginWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\entity\MahasiswaWeb.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\entity\MahasiswaWeb.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\MessageBox.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\MessageBox.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\printDaftarKPWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\printDaftarKPWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\printDaftarKPWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\printDaftarKPWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\printDaftarUKPWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\printDaftarUKPWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\printDaftarUKPWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\printDaftarUKPWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\report\daftarUKPrpt.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\report\daftarUKPrpt.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\report\daftarKPrpt.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\report\daftarKPrpt.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\TAWebUI.aspx.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\TAWebUI.aspx.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\TAWebUI.aspx.designer.cs" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\TAWebUI.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetDosen.xsc" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetDosen.xsc">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetDosen.xsd" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetDosen.xsd">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetDosen.xss" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetDosen.xss">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetKPWeb.xsc" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetKPWeb.xsc">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetKPWeb.xsd" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetKPWeb.xsd">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetKPWeb.xss" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetKPWeb.xss">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetMahasiswaWeb.xsc" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetMahasiswaWeb.xsc">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetMahasiswaWeb.xsd" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetMahasiswaWeb.xsd">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetMahasiswaWeb.xss" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetMahasiswaWeb.xss">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetTAWeb.xsc" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetTAWeb.xsc">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetTAWeb.xsd" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetTAWeb.xsd">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetTAWeb.xss" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetTAWeb.xss">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetUjianKPWeb.xsc" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetUjianKPWeb.xsc">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetUjianKPWeb.xsd" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetUjianKPWeb.xsd">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetUjianKPWeb.xss" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetUjianKPWeb.xss">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetvKP.xsc" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetvKP.xsc">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetvKP.xsd" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetvKP.xsd">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetvKP.xss" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetvKP.xss">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetvUKP.xsc" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetvUKP.xsc">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetvUKP.xsd" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetvUKP.xsd">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\dataset\DataSetvUKP.xss" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\dataset\DataSetvUKP.xss">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\Properties\Settings.settings" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarKPWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarKPWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarTAWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarTAWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\daftarUjianKPWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\daftarUjianKPWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\HomeWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\HomeWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\ancientegypt1.jpg" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\ancientegypt1.jpg">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\ancientegypt2.jpg" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\ancientegypt2.jpg">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\ancientegypt3.jpg" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\ancientegypt3.jpg">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\ancientegypt4.jpg" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\ancientegypt4.jpg">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\arrowhead.swf" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\arrowhead.swf">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\b001main_right.jpg" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\b001main_right.jpg">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\bcastr31.swf" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\bcastr31.swf">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\Beach_pictures_6.jpg" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\Beach_pictures_6.jpg">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\bg1.png" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\bg1.png">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\bot1.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\bot1.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\bot2.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\bot2.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\botmenu_bg.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\botmenu_bg.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\nav38633020a.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\nav38633020a.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\nav38633020i.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\nav38633020i.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\nav94433480a.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\nav94433480a.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\new_releases_bg.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\new_releases_bg.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\new_releases_s.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\new_releases_s.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\products_b.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\products_b.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\shape6501497.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\shape6501497.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\slideshow39897396.xml" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\slideshow39897396.xml">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\topmenu_img1.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\topmenu_img1.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\users_feedback_bg.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\users_feedback_bg.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\images\users_feedback_s.gif" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\images\users_feedback_s.gif">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\KPWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\KPWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\loginWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\loginWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\printDaftarKPWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\printDaftarKPWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\printDaftarUKPWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\printDaftarUKPWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\script\ac_activex.js" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\script\ac_activex.js">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\TAWebUI.aspx" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\TAWebUI.aspx">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\Web.config" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\Web.config">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\report\daftarUKPrpt.rpt" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\report\daftarUKPrpt.rpt">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\report\daftarKPrpt.rpt" Description="File successfully backed up as E:\Skripsi\MHS\mhsAPP\Backup\mhsAPP\report\daftarKPrpt.rpt">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\mhsAPP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mhsAPP" Source="mhsAPP\mhsAPP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mhsAPP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mhsAPP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mhsAPP" Source="mhsAPP\mhsAPP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

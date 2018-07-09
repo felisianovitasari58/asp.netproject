@@ -1,0 +1,12 @@
+E:\Skripsi\mhsAPP\mhsAPP\obj\Debug\ResolveAssemblyReference.cache
+E:\Skripsi\mhsAPP\mhsAPP\bin\mhsAPP.dll
+E:\Skripsi\mhsAPP\mhsAPP\bin\mhsAPP.pdb
+E:\Skripsi\mhsAPP\mhsAPP\obj\Debug\mhsAPP.dll
+E:\Skripsi\mhsAPP\mhsAPP\obj\Debug\mhsAPP.pdb
+E:\Skripsi\MHS\mhsAPP\mhsAPP\bin\mhsAPP.dll
+E:\Skripsi\MHS\mhsAPP\mhsAPP\bin\mhsAPP.pdb
+E:\Skripsi\MHS\mhsAPP\mhsAPP\obj\Debug\ResolveAssemblyReference.cache
+E:\Skripsi\MHS\mhsAPP\mhsAPP\obj\Debug\mhsAPP.dll
+E:\Skripsi\MHS\mhsAPP\mhsAPP\obj\Debug\mhsAPP.pdb
+E:\Skripsi\MHS\mhsAPP\mhsAPP\obj\Debug\mhsAPP.report.daftarKPrpt.rpt
+E:\Skripsi\MHS\mhsAPP\mhsAPP\obj\Debug\mhsAPP.report.daftarUKPrpt.rpt
